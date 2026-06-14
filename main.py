@@ -12,7 +12,7 @@ WELCOME = (
     "Transaksi deposit QRIS proses hanya 1 detik\n"
     "Penarikan berapapun dibayar lunas tanpa ribet\n"
     "Sistem cepat, stabil dan pelayanan terbaik 24 jam\n\n"
-    "Link Alternatif: https://cutt.ly/9tTxZXsX\n"
+    "Link Alternatif: https://newserver.ink/kita-bisa/loginliga808\n"
     "Group WhatsApp: https://chat.whatsapp.com/ESnPixSwuY472u9nYgic5i\n"
     "Live Chat 24 Jam: https://direct.lc.chat/17638827\n\n"
     "Bergabunglah sekarang dan rasakan pengalaman terbaik bersama LIGA808!"
@@ -21,12 +21,12 @@ WELCOME = (
 def keyboard():
     return InlineKeyboardMarkup([
         [
-            InlineKeyboardButton("Link Alternatif", url="https://cutt.ly/9tTxZXsX"),
+            InlineKeyboardButton("Link Alternatif", url="https://newserver.ink/kita-bisa/loginliga808"),
             InlineKeyboardButton("Group WhatsApp", url="https://chat.whatsapp.com/ESnPixSwuY472u9nYgic5i")
         ],
         [
             InlineKeyboardButton("Live Chat 24 Jam", url="https://direct.lc.chat/17638827"),
-            InlineKeyboardButton("Daftar Sekarang", url="https://cutt.ly/9tTxZXsX")
+            InlineKeyboardButton("Daftar Sekarang", url="https://newserver.ink/kita-bisa/loginliga808")
         ]
     ])
 
