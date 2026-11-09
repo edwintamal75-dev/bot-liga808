@@ -18,7 +18,7 @@ if not BOT_TOKEN:
 
 LINK_RESMI = "https://newserver.ink/kita-bisa/loginliga808/"
 LIVE_CHAT = "https://text.at/caf87d43-cc6e-4e7b-a441-84efd48bc9f9"
-BANNER_PATH = os.path.join("assets", "liga808-banner.png")
+BANNER_PATH = os.path.join("assets", "liga808-banner.jpg")
 
 WELCOME = """<b>LIGA808 OFFICIAL</b>
 
